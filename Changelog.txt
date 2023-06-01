@@ -1,0 +1,6 @@
+- 6/1/23
+	-completed the chest plugin
+
+	-plugins consits off accesing your inventory through a stick, but can also be used as a portable cloud for stuff
+	
+	-hopefully going to add more stuff soon

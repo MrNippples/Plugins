@@ -4,3 +4,7 @@
 	-plugins consits off accesing your inventory through a stick, but can also be used as a portable cloud for stuff
 	
 	-hopefully going to add more stuff soon
+- 6/2/23
+	-Started work on spotify nametag plugin, hopefully a mod soon though. Most likely a plugin at first and then I will start transitioning it over to a mod to plug into forge or somthing. 
+	
+	-fixed invChest not working on servers and duplicating to plugins folder after restart and load up

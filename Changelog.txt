@@ -8,3 +8,7 @@
 	-Started work on spotify nametag plugin, hopefully a mod soon though. Most likely a plugin at first and then I will start transitioning it over to a mod to plug into forge or somthing. 
 	
 	-fixed invChest not working on servers and duplicating to plugins folder after restart and load up
+- 6/3-4/23
+	-Spotify plugin in alpha waiting for testing and bugs, hopefully i get some reponse from the plugin. Also I made the main changes at like 12am on the 4th so i kinda just namde this 3-4 cause of that. 
+	
+	-hopefully today at like 10am I can finally start getting some more stuff done with invChest and Spotify. 
